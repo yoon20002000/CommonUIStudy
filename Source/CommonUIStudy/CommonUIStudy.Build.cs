@@ -13,7 +13,7 @@ public class CommonUIStudy : ModuleRules
 			"Core", "CoreUObject", "Engine", "InputCore", "EnhancedInput", "UMG",
 			"Slate",
 			"SlateCore",
-			"CommonUI"
+			"CommonUI",
 		});
 	}
 }
